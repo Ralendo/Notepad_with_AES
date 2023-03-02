@@ -1,0 +1,18 @@
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.csproj.AssemblyReference.cache
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad_with_AES.Properties.Resources.resources
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.csproj.GenerateResource.cache
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.csproj.CoreCompileInputs.cache
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\bin\Debug\Notepad with AES.exe.config
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\bin\Debug\Notepad with AES.exe
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\bin\Debug\Notepad with AES.pdb
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.exe
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.pdb
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad_with_AES.About.resources
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad_with_AES.AboutKey.resources
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad_with_AES.SaveCrypt.resources
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad_with_AES.OpenCrypt.resources
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad_with_AES.Main.resources
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\bin\Debug\Notepad with AES.exe.manifest
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\bin\Debug\Notepad with AES.application
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.exe.manifest
+C:\Users\xrale\OneDrive\Рабочий стол\Coding\C#\Notepad with AES\Notepad with AES\Notepad with AES\obj\Debug\Notepad with AES.application
